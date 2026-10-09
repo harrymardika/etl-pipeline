@@ -57,7 +57,7 @@ etl-pipeline/
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/maybeitsai/etl-pipeline.git
+    git clone https://github.com/harrymardika/etl-pipeline.git
     cd etl-pipeline
     ```
 
